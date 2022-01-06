@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\SaleswebMvc\\SaleswebMvc\\SaleswebMvc.csproj": {}
+    "C:\\temp\\SalesWebMvc\\SaleswebMvc\\SaleswebMvc.csproj": {}
   },
   "projects": {
-    "C:\\temp\\SaleswebMvc\\SaleswebMvc\\SaleswebMvc.csproj": {
+    "C:\\temp\\SalesWebMvc\\SaleswebMvc\\SaleswebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\SaleswebMvc\\SaleswebMvc\\SaleswebMvc.csproj",
+        "projectUniqueName": "C:\\temp\\SalesWebMvc\\SaleswebMvc\\SaleswebMvc.csproj",
         "projectName": "SaleswebMvc",
-        "projectPath": "C:\\temp\\SaleswebMvc\\SaleswebMvc\\SaleswebMvc.csproj",
+        "projectPath": "C:\\temp\\SalesWebMvc\\SaleswebMvc\\SaleswebMvc.csproj",
         "packagesPath": "C:\\Users\\Luri\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\SaleswebMvc\\SaleswebMvc\\obj\\",
+        "outputPath": "C:\\temp\\SalesWebMvc\\SaleswebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,7 +7,6 @@ C:\temp\SalesWebMvc\SaleswebMvc\bin\Debug\netcoreapp2.1\SaleswebMvc.dll
 C:\temp\SalesWebMvc\SaleswebMvc\bin\Debug\netcoreapp2.1\SaleswebMvc.pdb
 C:\temp\SalesWebMvc\SaleswebMvc\bin\Debug\netcoreapp2.1\SaleswebMvc.Views.dll
 C:\temp\SalesWebMvc\SaleswebMvc\bin\Debug\netcoreapp2.1\SaleswebMvc.Views.pdb
-C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.csproj.AssemblyReference.cache
 C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.GeneratedMSBuildEditorConfig.editorconfig
 C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.AssemblyInfoInputs.cache
 C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.AssemblyInfo.cs
@@ -39,3 +38,4 @@ C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.dll
 C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.pdb
 C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.genruntimeconfig.cache
 C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.csproj.CopyComplete
+C:\temp\SalesWebMvc\SaleswebMvc\obj\Debug\netcoreapp2.1\SaleswebMvc.csproj.AssemblyReference.cache
